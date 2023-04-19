@@ -1,9 +1,9 @@
-# Groups and Categories
-![Groups   Categories](https://user-images.githubusercontent.com/84849349/233199846-028e3e32-9617-4b03-80f3-58a14946f9c5.jpeg)
-
-
 # Churn Demographics
 ![Churn Demographics](https://user-images.githubusercontent.com/84849349/233199918-5ebd32de-e586-4a72-ad41-eef84d6cb1f0.jpeg)
+
+
+# Groups and Categories
+![Groups   Categories](https://user-images.githubusercontent.com/84849349/233199846-028e3e32-9617-4b03-80f3-58a14946f9c5.jpeg)
 
 
 # Unlimited Plan
